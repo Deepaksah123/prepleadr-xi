@@ -614,6 +614,8 @@ const cur=()=>pool()[state.question];
 function persistBookmarks(){try{localStorage.setItem('marrow_demo_bookmarks',JSON.stringify([...state.bookmarks]))}catch(e){}}
 function setActive(name,push=true){
   if(push&&state.history.at(-1)!==name)state.history.push(name);
+  const timerScreens=['test','palette','submit'];
+  if(!timerScreens.includes(name)&&state.timerHandle) stopTimer();
   state.screen=name;
   const immersive=['test','palette','submit','result','review','question','explanation'];
   document.body.classList.toggle('immersive-mode',immersive.includes(name));
