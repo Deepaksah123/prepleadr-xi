@@ -806,7 +806,11 @@ if(screen==='custom'){
    if(txt==='SUBMIT TEST'||txt==='FINISH MODULE'){setActive('submit');return}
  }
  if(screen==='submit'){if(txt==='SUBMIT'||txt==='FINISH MODULE'){state.submitted=true;stopTimer();setActive('result');return}if(txt==='GO BACK'){setActive('test');return}}
- if(screen==='result'){if(txt.includes('Review Answers')){setActive('review');return}if(txt.includes('Analytics')){setActive('analytics');return}}
+ if(screen==='result'){
+   if(t.closest('.result-rank-switch')){t.closest('.result-rank-switch').querySelectorAll('button').forEach(b=>b.classList.toggle('active',b===t));return}
+   if(txt.includes('Review Answers')){setActive('review');return}
+   if(txt.includes('Analytics')){setActive('analytics');return}
+ }
  if(screen==='review'){
    if(t.dataset.review!==undefined){state.reviewIndex=+t.dataset.review;state.question=state.reviewIndex;setActive('question');return}
    if(t.dataset.reviewFilter){state.reviewFilter=t.dataset.reviewFilter;renderReview();return}
