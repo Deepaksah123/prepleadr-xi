@@ -624,8 +624,8 @@ function setActive(name,push=true){
   document.body.classList.toggle('qbank-regular',state.mode==='qbank'&&state.qbankMode==='regular');
   document.body.classList.toggle('qbank-exam',state.mode==='qbank'&&state.qbankMode==='exam');
   $$('[data-screen]').forEach(x=>x.classList.toggle('active',x.dataset.screen===name));
-  $$('.bottom button').forEach(x=>x.classList.toggle('active',x.dataset.go===name));
-  window.scrollTo(0,0); renderScreen(name);
+  $('.bottom button').forEach(x=>{x.classList.toggle('active',x.dataset.go===name);x.setAttribute('aria-current',x.classList.contains('active')?'page':'false')});
+  window.scrollTo(0,0); renderScreen(name); applyFinalA11y();
 }
 function begin(subject,topic,mode='qbank',reset=true){
   state.current={subject,topic,source:mode};state.mode=mode;state.question=0;state.reviewIndex=0;state.submitted=false;state.reviewFilter='all';state.explanationVisible=false;
@@ -743,6 +743,17 @@ function applyFont(size){state.fontSize=size;document.body.classList.remove('fon
 function renderSettings(){const q=$('#settingsQbankMode');if(q)q.textContent=state.qbankMode==='exam'?'Exam':'Regular';applyTheme(state.themeMode);applyAccent(state.accent);applyFont(state.fontSize)}
 // Main router. This is the only click router in the final build.
 document.addEventListener('input',e=>{const t=e.target;if(t&&t.id==='customQuestionCount'){const n=Number(t.value||20);const out=$('#customCountLabel');if(out)out.textContent=`${n} questions`;}});
+/* Final interaction-stability layer: live QBank search + keyboard dismissal + accessibility labels. */
+document.addEventListener('input',e=>{const t=e.target;if(t&&t.id==='qbankSubjectSearch'){const root=$('[data-screen="qbank"]');if(root&&root.classList.contains('active')){const pos=t.selectionStart;renderQBank();const next=$('#qbankSubjectSearch');if(next){next.focus();try{next.setSelectionRange(pos,pos)}catch(_){}}}}});
+document.addEventListener('keydown',e=>{if(e.key!=='Escape')return;const drawer=$('#drawer');if(drawer?.classList.contains('open')){drawer.classList.remove('open');return}const modal=$('#reportModal');if(modal?.classList.contains('open'))modal.classList.remove('open');});
+function applyFinalA11y(){
+  const labels={menuBtn:'Open menu',searchBtn:'Search',themeToggle:'Toggle theme',closeDrawer:'Close menu'};
+  Object.keys(labels).forEach(id=>{const el=$('#'+id);if(el)el.setAttribute('aria-label',labels[id])});
+  $('.bottom button').forEach(b=>{b.setAttribute('aria-label',b.textContent.trim());b.setAttribute('aria-current',b.classList.contains('active')?'page':'false')});
+  $('[data-theme],[data-accent],[data-font],[data-qbank-mode],[data-view],[data-schema-view]').forEach(b=>{b.setAttribute('aria-pressed',b.classList.contains('active')?'true':'false')});
+  $('[data-screen].active .tabs button,.video-tabs button').forEach(b=>{if(b.classList.contains('active'))b.setAttribute('aria-selected','true');else b.setAttribute('aria-selected','false')});
+}
+
 document.addEventListener('click',e=>{
  const t=e.target.closest('button,[data-go]');if(!t)return;const screen=t.closest('[data-screen]')?.dataset.screen;const txt=t.textContent.trim();
  if(t.id==='reportErrorBtn'){e.preventDefault();e.stopImmediatePropagation();$('#reportModal')?.classList.add('open');return}
