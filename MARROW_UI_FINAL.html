@@ -617,6 +617,7 @@ function setActive(name,push=true){
   const timerScreens=['test','palette','submit'];
   if(!timerScreens.includes(name)&&state.timerHandle) stopTimer();
   state.screen=name;
+  if(name!=='test') state.explanationVisible=false;
   const immersive=['test','palette','submit','result','review','question','explanation'];
   document.body.classList.toggle('immersive-mode',immersive.includes(name));
   document.body.classList.toggle('test-mode',(['test','palette','submit'].includes(name)) && (state.mode==='test'||isExamQBank()));
