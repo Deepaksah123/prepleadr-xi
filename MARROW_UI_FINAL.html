@@ -752,7 +752,7 @@ document.addEventListener('click',e=>{
  if(t.id==='menuBtn'){e.preventDefault();e.stopImmediatePropagation();$('#drawer').classList.add('open');return}
  if(t.id==='closeDrawer'){e.preventDefault();e.stopImmediatePropagation();$('#drawer').classList.remove('open');return}
  if(t.id==='searchBtn'){e.preventDefault();e.stopImmediatePropagation();setActive('search');return}
- if(t.id==='themeToggle'){e.preventDefault();e.stopImmediatePropagation();document.body.classList.toggle('dark');try{localStorage.setItem('marrow_dark',document.body.classList.contains('dark'))}catch(e){}return}
+ if(t.id==='themeToggle'){e.preventDefault();e.stopImmediatePropagation();state.themeMode=document.body.classList.contains('dark')?'light':'dark';applyTheme(state.themeMode);return}
  if(t.dataset.go==='question'&&screen==='custom'){e.preventDefault();e.stopImmediatePropagation();beginCustom();return}
  if(t.dataset.go){e.preventDefault();e.stopImmediatePropagation();$('#drawer')?.classList.remove('open');const d=t.dataset.go;if(d==='instructions'){state.testType='gt';state.mode='test';state.timeLimitSeconds=210*60;setActive('instructions');return}else if(d==='test'){state.testType=state.testType==='customExam'?'customExam':'gt';begin(state.current?.subject||'Grand Test',state.current?.topic||'Full Test','test')}else if(d==='question'){begin('Anatomy','General Concepts','qbank')}else if(d==='result'){state.submitted=true;setActive('result')}else setActive(d);return}
  if(screen==='qbank'){
@@ -835,6 +835,7 @@ const searchInput=$('[data-screen="search"] input');if(searchInput){searchInput.
 // Restore dark mode preference.
 try{state.themeMode=localStorage.getItem('marrow_theme')||((localStorage.getItem('marrow_dark')==='true')?'dark':'light');state.accent=localStorage.getItem('marrow_accent')||'teal';state.fontSize=localStorage.getItem('marrow_font')||'default';state.qbankMode=localStorage.getItem('marrow_qbank_mode')||'regular'}catch(e){}
 applyTheme(state.themeMode);applyAccent(state.accent);applyFont(state.fontSize);
+(function syncSystemTheme(){if(state.themeMode!=='system'||!window.matchMedia)return;var mq=window.matchMedia('(prefers-color-scheme: dark)');var sync=function(){if(state.themeMode==='system')document.body.classList.toggle('dark',mq.matches)};if(mq.addEventListener)mq.addEventListener('change',sync);else if(mq.addListener)mq.addListener(sync);})();
 // Initial render.
 renderQBank();renderQBankTab('Subjects');renderVideos();renderSchema();renderCustom();renderTests();renderMagic();paintTimer();
 setActive('home',false);
