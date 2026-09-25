@@ -1227,4 +1227,10 @@ body.qbank-regular [data-screen="test"].screen .question-card{margin-top:0!impor
   [data-screen="palette"] .palette{gap:5px!important}
 }
 </style>
-</body></html>
+<style id="final-accessibility-stability">
+button:focus-visible,input:focus-visible{outline:2px solid var(--brand)!important;outline-offset:2px!important}
+button[disabled]{cursor:default!important}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}
+}
+</style></body></html>
