@@ -1,0 +1,1000 @@
+CEREBELLUM APK — EXACT ZIP PATH TREE
+Source: /mnt/data/cereb_org_ui_voad.zip
+Entries: 2205
+
+└── base_1_apk_recovered_source
+    ├── apk_exact
+    │   ├── assets
+    │   │   ├── dexopt
+    │   │   │   ├── baseline.prof
+    │   │   │   └── baseline.profm
+    │   │   ├── fonts
+    │   │   │   ├── AntDesign.ttf
+    │   │   │   ├── Besley-Bold.ttf
+    │   │   │   ├── Besley-Medium.ttf
+    │   │   │   ├── Besley-Regular.ttf
+    │   │   │   ├── Besley-SemiBold.ttf
+    │   │   │   ├── BIZUDPMincho-Regular.ttf
+    │   │   │   ├── Entypo.ttf
+    │   │   │   ├── EvilIcons.ttf
+    │   │   │   ├── Feather.ttf
+    │   │   │   ├── FontAwesome.ttf
+    │   │   │   ├── FontAwesome5_Brands.ttf
+    │   │   │   ├── FontAwesome5_Regular.ttf
+    │   │   │   ├── FontAwesome5_Solid.ttf
+    │   │   │   ├── FontAwesome6_Brands.ttf
+    │   │   │   ├── FontAwesome6_Regular.ttf
+    │   │   │   ├── FontAwesome6_Solid.ttf
+    │   │   │   ├── Fontisto.ttf
+    │   │   │   ├── Foundation.ttf
+    │   │   │   ├── Inter-Black.ttf
+    │   │   │   ├── Inter-Bold.ttf
+    │   │   │   ├── Inter-ExtraBold.ttf
+    │   │   │   ├── Inter-ExtraLight.ttf
+    │   │   │   ├── Inter-Light.ttf
+    │   │   │   ├── Inter-Medium.ttf
+    │   │   │   ├── Inter-regular.ttf
+    │   │   │   ├── Inter-SemiBold.ttf
+    │   │   │   ├── Inter-Thin.ttf
+    │   │   │   ├── Ionicons.ttf
+    │   │   │   ├── MaterialCommunityIcons.ttf
+    │   │   │   ├── MaterialIcons.ttf
+    │   │   │   ├── Octicons.ttf
+    │   │   │   ├── OpenSauceOne-Bold.ttf
+    │   │   │   ├── OpenSauceOne-Medium.ttf
+    │   │   │   ├── OpenSauceOne-Regular.ttf
+    │   │   │   ├── OpenSauceOne-SemiBold.ttf
+    │   │   │   ├── SimpleLineIcons.ttf
+    │   │   │   └── Zocial.ttf
+    │   │   ├── appcenter-config.json
+    │   │   └── index.android.bundle
+    │   ├── com
+    │   │   └── google
+    │   │       └── i18n
+    │   │           └── phonenumbers
+    │   │               └── data
+    │   │                   ├── PhoneNumberAlternateFormatsProto_255
+    │   │                   ├── PhoneNumberAlternateFormatsProto_27
+    │   │                   ├── PhoneNumberAlternateFormatsProto_30
+    │   │                   ├── PhoneNumberAlternateFormatsProto_31
+    │   │                   ├── PhoneNumberAlternateFormatsProto_34
+    │   │                   ├── PhoneNumberAlternateFormatsProto_350
+    │   │                   ├── PhoneNumberAlternateFormatsProto_351
+    │   │                   ├── PhoneNumberAlternateFormatsProto_352
+    │   │                   ├── PhoneNumberAlternateFormatsProto_358
+    │   │                   ├── PhoneNumberAlternateFormatsProto_359
+    │   │                   ├── PhoneNumberAlternateFormatsProto_36
+    │   │                   ├── PhoneNumberAlternateFormatsProto_372
+    │   │                   ├── PhoneNumberAlternateFormatsProto_373
+    │   │                   ├── PhoneNumberAlternateFormatsProto_380
+    │   │                   ├── PhoneNumberAlternateFormatsProto_381
+    │   │                   ├── PhoneNumberAlternateFormatsProto_385
+    │   │                   ├── PhoneNumberAlternateFormatsProto_39
+    │   │                   ├── PhoneNumberAlternateFormatsProto_43
+    │   │                   ├── PhoneNumberAlternateFormatsProto_44
+    │   │                   ├── PhoneNumberAlternateFormatsProto_49
+    │   │                   ├── PhoneNumberAlternateFormatsProto_505
+    │   │                   ├── PhoneNumberAlternateFormatsProto_506
+    │   │                   ├── PhoneNumberAlternateFormatsProto_52
+    │   │                   ├── PhoneNumberAlternateFormatsProto_54
+    │   │                   ├── PhoneNumberAlternateFormatsProto_55
+    │   │                   ├── PhoneNumberAlternateFormatsProto_58
+    │   │                   ├── PhoneNumberAlternateFormatsProto_595
+    │   │                   ├── PhoneNumberAlternateFormatsProto_61
+    │   │                   ├── PhoneNumberAlternateFormatsProto_62
+    │   │                   ├── PhoneNumberAlternateFormatsProto_64
+    │   │                   ├── PhoneNumberAlternateFormatsProto_66
+    │   │                   ├── PhoneNumberAlternateFormatsProto_675
+    │   │                   ├── PhoneNumberAlternateFormatsProto_676
+    │   │                   ├── PhoneNumberAlternateFormatsProto_679
+    │   │                   ├── PhoneNumberAlternateFormatsProto_7
+    │   │                   ├── PhoneNumberAlternateFormatsProto_81
+    │   │                   ├── PhoneNumberAlternateFormatsProto_84
+    │   │                   ├── PhoneNumberAlternateFormatsProto_855
+    │   │                   ├── PhoneNumberAlternateFormatsProto_856
+    │   │                   ├── PhoneNumberAlternateFormatsProto_90
+    │   │                   ├── PhoneNumberAlternateFormatsProto_91
+    │   │                   ├── PhoneNumberAlternateFormatsProto_94
+    │   │                   ├── PhoneNumberAlternateFormatsProto_95
+    │   │                   ├── PhoneNumberAlternateFormatsProto_971
+    │   │                   ├── PhoneNumberAlternateFormatsProto_972
+    │   │                   ├── PhoneNumberAlternateFormatsProto_995
+    │   │                   ├── PhoneNumberMetadataProto_800
+    │   │                   ├── PhoneNumberMetadataProto_808
+    │   │                   ├── PhoneNumberMetadataProto_870
+    │   │                   ├── PhoneNumberMetadataProto_878
+    │   │                   ├── PhoneNumberMetadataProto_881
+    │   │                   ├── PhoneNumberMetadataProto_882
+    │   │                   ├── PhoneNumberMetadataProto_883
+    │   │                   ├── PhoneNumberMetadataProto_888
+    │   │                   ├── PhoneNumberMetadataProto_979
+    │   │                   ├── PhoneNumberMetadataProto_AC
+    │   │                   ├── PhoneNumberMetadataProto_AD
+    │   │                   ├── PhoneNumberMetadataProto_AE
+    │   │                   ├── PhoneNumberMetadataProto_AF
+    │   │                   ├── PhoneNumberMetadataProto_AG
+    │   │                   ├── PhoneNumberMetadataProto_AI
+    │   │                   ├── PhoneNumberMetadataProto_AL
+    │   │                   ├── PhoneNumberMetadataProto_AM
+    │   │                   ├── PhoneNumberMetadataProto_AO
+    │   │                   ├── PhoneNumberMetadataProto_AR
+    │   │                   ├── PhoneNumberMetadataProto_AS
+    │   │                   ├── PhoneNumberMetadataProto_AT
+    │   │                   ├── PhoneNumberMetadataProto_AU
+    │   │                   ├── PhoneNumberMetadataProto_AW
+    │   │                   ├── PhoneNumberMetadataProto_AX
+    │   │                   ├── PhoneNumberMetadataProto_AZ
+    │   │                   ├── PhoneNumberMetadataProto_BA
+    │   │                   ├── PhoneNumberMetadataProto_BB
+    │   │                   ├── PhoneNumberMetadataProto_BD
+    │   │                   ├── PhoneNumberMetadataProto_BE
+    │   │                   ├── PhoneNumberMetadataProto_BF
+    │   │                   ├── PhoneNumberMetadataProto_BG
+    │   │                   ├── PhoneNumberMetadataProto_BH
+    │   │                   ├── PhoneNumberMetadataProto_BI
+    │   │                   ├── PhoneNumberMetadataProto_BJ
+    │   │                   ├── PhoneNumberMetadataProto_BL
+    │   │                   ├── PhoneNumberMetadataProto_BM
+    │   │                   ├── PhoneNumberMetadataProto_BN
+    │   │                   ├── PhoneNumberMetadataProto_BO
+    │   │                   ├── PhoneNumberMetadataProto_BQ
+    │   │                   ├── PhoneNumberMetadataProto_BR
+    │   │                   ├── PhoneNumberMetadataProto_BS
+    │   │                   ├── PhoneNumberMetadataProto_BT
+    │   │                   ├── PhoneNumberMetadataProto_BW
+    │   │                   ├── PhoneNumberMetadataProto_BY
+    │   │                   ├── PhoneNumberMetadataProto_BZ
+    │   │                   ├── PhoneNumberMetadataProto_CA
+    │   │                   ├── PhoneNumberMetadataProto_CC
+    │   │                   ├── PhoneNumberMetadataProto_CD
+    │   │                   ├── PhoneNumberMetadataProto_CF
+    │   │                   ├── PhoneNumberMetadataProto_CG
+    │   │                   ├── PhoneNumberMetadataProto_CH
+    │   │                   ├── PhoneNumberMetadataProto_CI
+    │   │                   ├── PhoneNumberMetadataProto_CK
+    │   │                   ├── PhoneNumberMetadataProto_CL
+    │   │                   ├── PhoneNumberMetadataProto_CM
+    │   │                   ├── PhoneNumberMetadataProto_CN
+    │   │                   ├── PhoneNumberMetadataProto_CO
+    │   │                   ├── PhoneNumberMetadataProto_CR
+    │   │                   ├── PhoneNumberMetadataProto_CU
+    │   │                   ├── PhoneNumberMetadataProto_CV
+    │   │                   ├── PhoneNumberMetadataProto_CW
+    │   │                   ├── PhoneNumberMetadataProto_CX
+    │   │                   ├── PhoneNumberMetadataProto_CY
+    │   │                   ├── PhoneNumberMetadataProto_CZ
+    │   │                   ├── PhoneNumberMetadataProto_DE
+    │   │                   ├── PhoneNumberMetadataProto_DJ
+    │   │                   ├── PhoneNumberMetadataProto_DK
+    │   │                   ├── PhoneNumberMetadataProto_DM
+    │   │                   ├── PhoneNumberMetadataProto_DO
+    │   │                   ├── PhoneNumberMetadataProto_DZ
+    │   │                   ├── PhoneNumberMetadataProto_EC
+    │   │                   ├── PhoneNumberMetadataProto_EE
+    │   │                   ├── PhoneNumberMetadataProto_EG
+    │   │                   ├── PhoneNumberMetadataProto_EH
+    │   │                   ├── PhoneNumberMetadataProto_ER
+    │   │                   ├── PhoneNumberMetadataProto_ES
+    │   │                   ├── PhoneNumberMetadataProto_ET
+    │   │                   ├── PhoneNumberMetadataProto_FI
+    │   │                   ├── PhoneNumberMetadataProto_FJ
+    │   │                   ├── PhoneNumberMetadataProto_FK
+    │   │                   ├── PhoneNumberMetadataProto_FM
+    │   │                   ├── PhoneNumberMetadataProto_FO
+    │   │                   ├── PhoneNumberMetadataProto_FR
+    │   │                   ├── PhoneNumberMetadataProto_GA
+    │   │                   ├── PhoneNumberMetadataProto_GB
+    │   │                   ├── PhoneNumberMetadataProto_GD
+    │   │                   ├── PhoneNumberMetadataProto_GE
+    │   │                   ├── PhoneNumberMetadataProto_GF
+    │   │                   ├── PhoneNumberMetadataProto_GG
+    │   │                   ├── PhoneNumberMetadataProto_GH
+    │   │                   ├── PhoneNumberMetadataProto_GI
+    │   │                   ├── PhoneNumberMetadataProto_GL
+    │   │                   ├── PhoneNumberMetadataProto_GM
+    │   │                   ├── PhoneNumberMetadataProto_GN
+    │   │                   ├── PhoneNumberMetadataProto_GP
+    │   │                   ├── PhoneNumberMetadataProto_GQ
+    │   │                   ├── PhoneNumberMetadataProto_GR
+    │   │                   ├── PhoneNumberMetadataProto_GT
+    │   │                   ├── PhoneNumberMetadataProto_GU
+    │   │                   ├── PhoneNumberMetadataProto_GW
+    │   │                   ├── PhoneNumberMetadataProto_GY
+    │   │                   ├── PhoneNumberMetadataProto_HK
+    │   │                   ├── PhoneNumberMetadataProto_HN
+    │   │                   ├── PhoneNumberMetadataProto_HR
+    │   │                   ├── PhoneNumberMetadataProto_HT
+    │   │                   ├── PhoneNumberMetadataProto_HU
+    │   │                   ├── PhoneNumberMetadataProto_ID
+    │   │                   ├── PhoneNumberMetadataProto_IE
+    │   │                   ├── PhoneNumberMetadataProto_IL
+    │   │                   ├── PhoneNumberMetadataProto_IM
+    │   │                   ├── PhoneNumberMetadataProto_IN
+    │   │                   ├── PhoneNumberMetadataProto_IO
+    │   │                   ├── PhoneNumberMetadataProto_IQ
+    │   │                   ├── PhoneNumberMetadataProto_IR
+    │   │                   ├── PhoneNumberMetadataProto_IS
+    │   │                   ├── PhoneNumberMetadataProto_IT
+    │   │                   ├── PhoneNumberMetadataProto_JE
+    │   │                   ├── PhoneNumberMetadataProto_JM
+    │   │                   ├── PhoneNumberMetadataProto_JO
+    │   │                   ├── PhoneNumberMetadataProto_JP
+    │   │                   ├── PhoneNumberMetadataProto_KE
+    │   │                   ├── PhoneNumberMetadataProto_KG
+    │   │                   ├── PhoneNumberMetadataProto_KH
+    │   │                   ├── PhoneNumberMetadataProto_KI
+    │   │                   ├── PhoneNumberMetadataProto_KM
+    │   │                   ├── PhoneNumberMetadataProto_KN
+    │   │                   ├── PhoneNumberMetadataProto_KP
+    │   │                   ├── PhoneNumberMetadataProto_KR
+    │   │                   ├── PhoneNumberMetadataProto_KW
+    │   │                   ├── PhoneNumberMetadataProto_KY
+    │   │                   ├── PhoneNumberMetadataProto_KZ
+    │   │                   ├── PhoneNumberMetadataProto_LA
+    │   │                   ├── PhoneNumberMetadataProto_LB
+    │   │                   ├── PhoneNumberMetadataProto_LC
+    │   │                   ├── PhoneNumberMetadataProto_LI
+    │   │                   ├── PhoneNumberMetadataProto_LK
+    │   │                   ├── PhoneNumberMetadataProto_LR
+    │   │                   ├── PhoneNumberMetadataProto_LS
+    │   │                   ├── PhoneNumberMetadataProto_LT
+    │   │                   ├── PhoneNumberMetadataProto_LU
+    │   │                   ├── PhoneNumberMetadataProto_LV
+    │   │                   ├── PhoneNumberMetadataProto_LY
+    │   │                   ├── PhoneNumberMetadataProto_MA
+    │   │                   ├── PhoneNumberMetadataProto_MC
+    │   │                   ├── PhoneNumberMetadataProto_MD
+    │   │                   ├── PhoneNumberMetadataProto_ME
+    │   │                   ├── PhoneNumberMetadataProto_MF
+    │   │                   ├── PhoneNumberMetadataProto_MG
+    │   │                   ├── PhoneNumberMetadataProto_MH
+    │   │                   ├── PhoneNumberMetadataProto_MK
+    │   │                   ├── PhoneNumberMetadataProto_ML
+    │   │                   ├── PhoneNumberMetadataProto_MM
+    │   │                   ├── PhoneNumberMetadataProto_MN
+    │   │                   ├── PhoneNumberMetadataProto_MO
+    │   │                   ├── PhoneNumberMetadataProto_MP
+    │   │                   ├── PhoneNumberMetadataProto_MQ
+    │   │                   ├── PhoneNumberMetadataProto_MR
+    │   │                   ├── PhoneNumberMetadataProto_MS
+    │   │                   ├── PhoneNumberMetadataProto_MT
+    │   │                   ├── PhoneNumberMetadataProto_MU
+    │   │                   ├── PhoneNumberMetadataProto_MV
+    │   │                   ├── PhoneNumberMetadataProto_MW
+    │   │                   ├── PhoneNumberMetadataProto_MX
+    │   │                   ├── PhoneNumberMetadataProto_MY
+    │   │                   ├── PhoneNumberMetadataProto_MZ
+    │   │                   ├── PhoneNumberMetadataProto_NA
+    │   │                   ├── PhoneNumberMetadataProto_NC
+    │   │                   ├── PhoneNumberMetadataProto_NE
+    │   │                   ├── PhoneNumberMetadataProto_NF
+    │   │                   ├── PhoneNumberMetadataProto_NG
+    │   │                   ├── PhoneNumberMetadataProto_NI
+    │   │                   ├── PhoneNumberMetadataProto_NL
+    │   │                   ├── PhoneNumberMetadataProto_NO
+    │   │                   ├── PhoneNumberMetadataProto_NP
+    │   │                   ├── PhoneNumberMetadataProto_NR
+    │   │                   ├── PhoneNumberMetadataProto_NU
+    │   │                   ├── PhoneNumberMetadataProto_NZ
+    │   │                   ├── PhoneNumberMetadataProto_OM
+    │   │                   ├── PhoneNumberMetadataProto_PA
+    │   │                   ├── PhoneNumberMetadataProto_PE
+    │   │                   ├── PhoneNumberMetadataProto_PF
+    │   │                   ├── PhoneNumberMetadataProto_PG
+    │   │                   ├── PhoneNumberMetadataProto_PH
+    │   │                   ├── PhoneNumberMetadataProto_PK
+    │   │                   ├── PhoneNumberMetadataProto_PL
+    │   │                   ├── PhoneNumberMetadataProto_PM
+    │   │                   ├── PhoneNumberMetadataProto_PR
+    │   │                   ├── PhoneNumberMetadataProto_PS
+    │   │                   ├── PhoneNumberMetadataProto_PT
+    │   │                   ├── PhoneNumberMetadataProto_PW
+    │   │                   ├── PhoneNumberMetadataProto_PY
+    │   │                   ├── PhoneNumberMetadataProto_QA
+    │   │                   ├── PhoneNumberMetadataProto_RE
+    │   │                   ├── PhoneNumberMetadataProto_RO
+    │   │                   ├── PhoneNumberMetadataProto_RS
+    │   │                   ├── PhoneNumberMetadataProto_RU
+    │   │                   ├── PhoneNumberMetadataProto_RW
+    │   │                   ├── PhoneNumberMetadataProto_SA
+    │   │                   ├── PhoneNumberMetadataProto_SB
+    │   │                   ├── PhoneNumberMetadataProto_SC
+    │   │                   ├── PhoneNumberMetadataProto_SD
+    │   │                   ├── PhoneNumberMetadataProto_SE
+    │   │                   ├── PhoneNumberMetadataProto_SG
+    │   │                   ├── PhoneNumberMetadataProto_SH
+    │   │                   ├── PhoneNumberMetadataProto_SI
+    │   │                   ├── PhoneNumberMetadataProto_SJ
+    │   │                   ├── PhoneNumberMetadataProto_SK
+    │   │                   ├── PhoneNumberMetadataProto_SL
+    │   │                   ├── PhoneNumberMetadataProto_SM
+    │   │                   ├── PhoneNumberMetadataProto_SN
+    │   │                   ├── PhoneNumberMetadataProto_SO
+    │   │                   ├── PhoneNumberMetadataProto_SR
+    │   │                   ├── PhoneNumberMetadataProto_SS
+    │   │                   ├── PhoneNumberMetadataProto_ST
+    │   │                   ├── PhoneNumberMetadataProto_SV
+    │   │                   ├── PhoneNumberMetadataProto_SX
+    │   │                   ├── PhoneNumberMetadataProto_SY
+    │   │                   ├── PhoneNumberMetadataProto_SZ
+    │   │                   ├── PhoneNumberMetadataProto_TA
+    │   │                   ├── PhoneNumberMetadataProto_TC
+    │   │                   ├── PhoneNumberMetadataProto_TD
+    │   │                   ├── PhoneNumberMetadataProto_TG
+    │   │                   ├── PhoneNumberMetadataProto_TH
+    │   │                   ├── PhoneNumberMetadataProto_TJ
+    │   │                   ├── PhoneNumberMetadataProto_TK
+    │   │                   ├── PhoneNumberMetadataProto_TL
+    │   │                   ├── PhoneNumberMetadataProto_TM
+    │   │                   ├── PhoneNumberMetadataProto_TN
+    │   │                   ├── PhoneNumberMetadataProto_TO
+    │   │                   ├── PhoneNumberMetadataProto_TR
+    │   │                   ├── PhoneNumberMetadataProto_TT
+    │   │                   ├── PhoneNumberMetadataProto_TV
+    │   │                   ├── PhoneNumberMetadataProto_TW
+    │   │                   ├── PhoneNumberMetadataProto_TZ
+    │   │                   ├── PhoneNumberMetadataProto_UA
+    │   │                   ├── PhoneNumberMetadataProto_UG
+    │   │                   ├── PhoneNumberMetadataProto_US
+    │   │                   ├── PhoneNumberMetadataProto_UY
+    │   │                   ├── PhoneNumberMetadataProto_UZ
+    │   │                   ├── PhoneNumberMetadataProto_VA
+    │   │                   ├── PhoneNumberMetadataProto_VC
+    │   │                   ├── PhoneNumberMetadataProto_VE
+    │   │                   ├── PhoneNumberMetadataProto_VG
+    │   │                   ├── PhoneNumberMetadataProto_VI
+    │   │                   ├── PhoneNumberMetadataProto_VN
+    │   │                   ├── PhoneNumberMetadataProto_VU
+    │   │                   ├── PhoneNumberMetadataProto_WF
+    │   │                   ├── PhoneNumberMetadataProto_WS
+    │   │                   ├── PhoneNumberMetadataProto_XK
+    │   │                   ├── PhoneNumberMetadataProto_YE
+    │   │                   ├── PhoneNumberMetadataProto_YT
+    │   │                   ├── PhoneNumberMetadataProto_ZA
+    │   │                   ├── PhoneNumberMetadataProto_ZM
+    │   │                   ├── PhoneNumberMetadataProto_ZW
+    │   │                   ├── ShortNumberMetadataProto_AC
+    │   │                   ├── ShortNumberMetadataProto_AD
+    │   │                   ├── ShortNumberMetadataProto_AE
+    │   │                   ├── ShortNumberMetadataProto_AF
+    │   │                   ├── ShortNumberMetadataProto_AG
+    │   │                   ├── ShortNumberMetadataProto_AI
+    │   │                   ├── ShortNumberMetadataProto_AL
+    │   │                   ├── ShortNumberMetadataProto_AM
+    │   │                   ├── ShortNumberMetadataProto_AO
+    │   │                   ├── ShortNumberMetadataProto_AR
+    │   │                   ├── ShortNumberMetadataProto_AS
+    │   │                   ├── ShortNumberMetadataProto_AT
+    │   │                   ├── ShortNumberMetadataProto_AU
+    │   │                   ├── ShortNumberMetadataProto_AW
+    │   │                   ├── ShortNumberMetadataProto_AX
+    │   │                   ├── ShortNumberMetadataProto_AZ
+    │   │                   ├── ShortNumberMetadataProto_BA
+    │   │                   ├── ShortNumberMetadataProto_BB
+    │   │                   ├── ShortNumberMetadataProto_BD
+    │   │                   ├── ShortNumberMetadataProto_BE
+    │   │                   ├── ShortNumberMetadataProto_BF
+    │   │                   ├── ShortNumberMetadataProto_BG
+    │   │                   ├── ShortNumberMetadataProto_BH
+    │   │                   ├── ShortNumberMetadataProto_BI
+    │   │                   ├── ShortNumberMetadataProto_BJ
+    │   │                   ├── ShortNumberMetadataProto_BL
+    │   │                   ├── ShortNumberMetadataProto_BM
+    │   │                   ├── ShortNumberMetadataProto_BN
+    │   │                   ├── ShortNumberMetadataProto_BO
+    │   │                   ├── ShortNumberMetadataProto_BQ
+    │   │                   ├── ShortNumberMetadataProto_BR
+    │   │                   ├── ShortNumberMetadataProto_BS
+    │   │                   ├── ShortNumberMetadataProto_BT
+    │   │                   ├── ShortNumberMetadataProto_BW
+    │   │                   ├── ShortNumberMetadataProto_BY
+    │   │                   ├── ShortNumberMetadataProto_BZ
+    │   │                   ├── ShortNumberMetadataProto_CA
+    │   │                   ├── ShortNumberMetadataProto_CC
+    │   │                   ├── ShortNumberMetadataProto_CD
+    │   │                   ├── ShortNumberMetadataProto_CF
+    │   │                   ├── ShortNumberMetadataProto_CG
+    │   │                   ├── ShortNumberMetadataProto_CH
+    │   │                   ├── ShortNumberMetadataProto_CI
+    │   │                   ├── ShortNumberMetadataProto_CK
+    │   │                   ├── ShortNumberMetadataProto_CL
+    │   │                   ├── ShortNumberMetadataProto_CM
+    │   │                   ├── ShortNumberMetadataProto_CN
+    │   │                   ├── ShortNumberMetadataProto_CO
+    │   │                   ├── ShortNumberMetadataProto_CR
+    │   │                   ├── ShortNumberMetadataProto_CU
+    │   │                   ├── ShortNumberMetadataProto_CV
+    │   │                   ├── ShortNumberMetadataProto_CW
+    │   │                   ├── ShortNumberMetadataProto_CX
+    │   │                   ├── ShortNumberMetadataProto_CY
+    │   │                   ├── ShortNumberMetadataProto_CZ
+    │   │                   ├── ShortNumberMetadataProto_DE
+    │   │                   ├── ShortNumberMetadataProto_DJ
+    │   │                   ├── ShortNumberMetadataProto_DK
+    │   │                   ├── ShortNumberMetadataProto_DM
+    │   │                   ├── ShortNumberMetadataProto_DO
+    │   │                   ├── ShortNumberMetadataProto_DZ
+    │   │                   ├── ShortNumberMetadataProto_EC
+    │   │                   ├── ShortNumberMetadataProto_EE
+    │   │                   ├── ShortNumberMetadataProto_EG
+    │   │                   ├── ShortNumberMetadataProto_EH
+    │   │                   ├── ShortNumberMetadataProto_ER
+    │   │                   ├── ShortNumberMetadataProto_ES
+    │   │                   ├── ShortNumberMetadataProto_ET
+    │   │                   ├── ShortNumberMetadataProto_FI
+    │   │                   ├── ShortNumberMetadataProto_FJ
+    │   │                   ├── ShortNumberMetadataProto_FK
+    │   │                   ├── ShortNumberMetadataProto_FM
+    │   │                   ├── ShortNumberMetadataProto_FO
+    │   │                   ├── ShortNumberMetadataProto_FR
+    │   │                   ├── ShortNumberMetadataProto_GA
+    │   │                   ├── ShortNumberMetadataProto_GB
+    │   │                   ├── ShortNumberMetadataProto_GD
+    │   │                   ├── ShortNumberMetadataProto_GE
+    │   │                   ├── ShortNumberMetadataProto_GF
+    │   │                   ├── ShortNumberMetadataProto_GG
+    │   │                   ├── ShortNumberMetadataProto_GH
+    │   │                   ├── ShortNumberMetadataProto_GI
+    │   │                   ├── ShortNumberMetadataProto_GL
+    │   │                   ├── ShortNumberMetadataProto_GM
+    │   │                   ├── ShortNumberMetadataProto_GN
+    │   │                   ├── ShortNumberMetadataProto_GP
+    │   │                   ├── ShortNumberMetadataProto_GR
+    │   │                   ├── ShortNumberMetadataProto_GT
+    │   │                   ├── ShortNumberMetadataProto_GU
+    │   │                   ├── ShortNumberMetadataProto_GW
+    │   │                   ├── ShortNumberMetadataProto_GY
+    │   │                   ├── ShortNumberMetadataProto_HK
+    │   │                   ├── ShortNumberMetadataProto_HN
+    │   │                   ├── ShortNumberMetadataProto_HR
+    │   │                   ├── ShortNumberMetadataProto_HT
+    │   │                   ├── ShortNumberMetadataProto_HU
+    │   │                   ├── ShortNumberMetadataProto_ID
+    │   │                   ├── ShortNumberMetadataProto_IE
+    │   │                   ├── ShortNumberMetadataProto_IL
+    │   │                   ├── ShortNumberMetadataProto_IM
+    │   │                   ├── ShortNumberMetadataProto_IN
+    │   │                   ├── ShortNumberMetadataProto_IQ
+    │   │                   ├── ShortNumberMetadataProto_IR
+    │   │                   ├── ShortNumberMetadataProto_IS
+    │   │                   ├── ShortNumberMetadataProto_IT
+    │   │                   ├── ShortNumberMetadataProto_JE
+    │   │                   ├── ShortNumberMetadataProto_JM
+    │   │                   ├── ShortNumberMetadataProto_JO
+    │   │                   ├── ShortNumberMetadataProto_JP
+    │   │                   ├── ShortNumberMetadataProto_KE
+    │   │                   ├── ShortNumberMetadataProto_KG
+    │   │                   ├── ShortNumberMetadataProto_KH
+    │   │                   ├── ShortNumberMetadataProto_KI
+    │   │                   ├── ShortNumberMetadataProto_KM
+    │   │                   ├── ShortNumberMetadataProto_KN
+    │   │                   ├── ShortNumberMetadataProto_KP
+    │   │                   ├── ShortNumberMetadataProto_KR
+    │   │                   ├── ShortNumberMetadataProto_KW
+    │   │                   ├── ShortNumberMetadataProto_KY
+    │   │                   ├── ShortNumberMetadataProto_KZ
+    │   │                   ├── ShortNumberMetadataProto_LA
+    │   │                   ├── ShortNumberMetadataProto_LB
+    │   │                   ├── ShortNumberMetadataProto_LC
+    │   │                   ├── ShortNumberMetadataProto_LI
+    │   │                   ├── ShortNumberMetadataProto_LK
+    │   │                   ├── ShortNumberMetadataProto_LR
+    │   │                   ├── ShortNumberMetadataProto_LS
+    │   │                   ├── ShortNumberMetadataProto_LT
+    │   │                   ├── ShortNumberMetadataProto_LU
+    │   │                   ├── ShortNumberMetadataProto_LV
+    │   │                   ├── ShortNumberMetadataProto_LY
+    │   │                   ├── ShortNumberMetadataProto_MA
+    │   │                   ├── ShortNumberMetadataProto_MC
+    │   │                   ├── ShortNumberMetadataProto_MD
+    │   │                   ├── ShortNumberMetadataProto_ME
+    │   │                   ├── ShortNumberMetadataProto_MF
+    │   │                   ├── ShortNumberMetadataProto_MG
+    │   │                   ├── ShortNumberMetadataProto_MH
+    │   │                   ├── ShortNumberMetadataProto_MK
+    │   │                   ├── ShortNumberMetadataProto_ML
+    │   │                   ├── ShortNumberMetadataProto_MM
+    │   │                   ├── ShortNumberMetadataProto_MN
+    │   │                   ├── ShortNumberMetadataProto_MO
+    │   │                   ├── ShortNumberMetadataProto_MP
+    │   │                   ├── ShortNumberMetadataProto_MQ
+    │   │                   ├── ShortNumberMetadataProto_MR
+    │   │                   ├── ShortNumberMetadataProto_MS
+    │   │                   ├── ShortNumberMetadataProto_MT
+    │   │                   ├── ShortNumberMetadataProto_MU
+    │   │                   ├── ShortNumberMetadataProto_MV
+    │   │                   ├── ShortNumberMetadataProto_MW
+    │   │                   ├── ShortNumberMetadataProto_MX
+    │   │                   ├── ShortNumberMetadataProto_MY
+    │   │                   ├── ShortNumberMetadataProto_MZ
+    │   │                   ├── ShortNumberMetadataProto_NA
+    │   │                   ├── ShortNumberMetadataProto_NC
+    │   │                   ├── ShortNumberMetadataProto_NE
+    │   │                   ├── ShortNumberMetadataProto_NF
+    │   │                   ├── ShortNumberMetadataProto_NG
+    │   │                   ├── ShortNumberMetadataProto_NI
+    │   │                   ├── ShortNumberMetadataProto_NL
+    │   │                   ├── ShortNumberMetadataProto_NO
+    │   │                   ├── ShortNumberMetadataProto_NP
+    │   │                   ├── ShortNumberMetadataProto_NR
+    │   │                   ├── ShortNumberMetadataProto_NU
+    │   │                   ├── ShortNumberMetadataProto_NZ
+    │   │                   ├── ShortNumberMetadataProto_OM
+    │   │                   ├── ShortNumberMetadataProto_PA
+    │   │                   ├── ShortNumberMetadataProto_PE
+    │   │                   ├── ShortNumberMetadataProto_PF
+    │   │                   ├── ShortNumberMetadataProto_PG
+    │   │                   ├── ShortNumberMetadataProto_PH
+    │   │                   ├── ShortNumberMetadataProto_PK
+    │   │                   ├── ShortNumberMetadataProto_PL
+    │   │                   ├── ShortNumberMetadataProto_PM
+    │   │                   ├── ShortNumberMetadataProto_PR
+    │   │                   ├── ShortNumberMetadataProto_PS
+    │   │                   ├── ShortNumberMetadataProto_PT
+    │   │                   ├── ShortNumberMetadataProto_PW
+    │   │                   ├── ShortNumberMetadataProto_PY
+    │   │                   ├── ShortNumberMetadataProto_QA
+    │   │                   ├── ShortNumberMetadataProto_RE
+    │   │                   ├── ShortNumberMetadataProto_RO
+    │   │                   ├── ShortNumberMetadataProto_RS
+    │   │                   ├── ShortNumberMetadataProto_RU
+    │   │                   ├── ShortNumberMetadataProto_RW
+    │   │                   ├── ShortNumberMetadataProto_SA
+    │   │                   ├── ShortNumberMetadataProto_SB
+    │   │                   ├── ShortNumberMetadataProto_SC
+    │   │                   ├── ShortNumberMetadataProto_SD
+    │   │                   ├── ShortNumberMetadataProto_SE
+    │   │                   ├── ShortNumberMetadataProto_SG
+    │   │                   ├── ShortNumberMetadataProto_SH
+    │   │                   ├── ShortNumberMetadataProto_SI
+    │   │                   ├── ShortNumberMetadataProto_SJ
+    │   │                   ├── ShortNumberMetadataProto_SK
+    │   │                   ├── ShortNumberMetadataProto_SL
+    │   │                   ├── ShortNumberMetadataProto_SM
+    │   │                   ├── ShortNumberMetadataProto_SN
+    │   │                   ├── ShortNumberMetadataProto_SO
+    │   │                   ├── ShortNumberMetadataProto_SR
+    │   │                   ├── ShortNumberMetadataProto_SS
+    │   │                   ├── ShortNumberMetadataProto_ST
+    │   │                   ├── ShortNumberMetadataProto_SV
+    │   │                   ├── ShortNumberMetadataProto_SX
+    │   │                   ├── ShortNumberMetadataProto_SY
+    │   │                   ├── ShortNumberMetadataProto_SZ
+    │   │                   ├── ShortNumberMetadataProto_TC
+    │   │                   ├── ShortNumberMetadataProto_TD
+    │   │                   ├── ShortNumberMetadataProto_TG
+    │   │                   ├── ShortNumberMetadataProto_TH
+    │   │                   ├── ShortNumberMetadataProto_TJ
+    │   │                   ├── ShortNumberMetadataProto_TL
+    │   │                   ├── ShortNumberMetadataProto_TM
+    │   │                   ├── ShortNumberMetadataProto_TN
+    │   │                   ├── ShortNumberMetadataProto_TO
+    │   │                   ├── ShortNumberMetadataProto_TR
+    │   │                   ├── ShortNumberMetadataProto_TT
+    │   │                   ├── ShortNumberMetadataProto_TV
+    │   │                   ├── ShortNumberMetadataProto_TW
+    │   │                   ├── ShortNumberMetadataProto_TZ
+    │   │                   ├── ShortNumberMetadataProto_UA
+    │   │                   ├── ShortNumberMetadataProto_UG
+    │   │                   ├── ShortNumberMetadataProto_US
+    │   │                   ├── ShortNumberMetadataProto_UY
+    │   │                   ├── ShortNumberMetadataProto_UZ
+    │   │                   ├── ShortNumberMetadataProto_VA
+    │   │                   ├── ShortNumberMetadataProto_VC
+    │   │                   ├── ShortNumberMetadataProto_VE
+    │   │                   ├── ShortNumberMetadataProto_VG
+    │   │                   ├── ShortNumberMetadataProto_VI
+    │   │                   ├── ShortNumberMetadataProto_VN
+    │   │                   ├── ShortNumberMetadataProto_VU
+    │   │                   ├── ShortNumberMetadataProto_WF
+    │   │                   ├── ShortNumberMetadataProto_WS
+    │   │                   ├── ShortNumberMetadataProto_XK
+    │   │                   ├── ShortNumberMetadataProto_YE
+    │   │                   ├── ShortNumberMetadataProto_YT
+    │   │                   ├── ShortNumberMetadataProto_ZA
+    │   │                   ├── ShortNumberMetadataProto_ZM
+    │   │                   └── ShortNumberMetadataProto_ZW
+    │   ├── developers
+    │   │   └── mobile
+    │   │       └── targeting
+    │   │           └── proto
+    │   │               └── client_signals.proto
+    │   ├── firebase
+    │   │   └── inappmessaging
+    │   │       └── proto
+    │   │           ├── common_types.proto
+    │   │           ├── experiment_payload.proto
+    │   │           └── messages.proto
+    │   ├── google
+    │   │   ├── api
+    │   │   │   ├── annotations.proto
+    │   │   │   ├── auth.proto
+    │   │   │   ├── backend.proto
+    │   │   │   ├── billing.proto
+    │   │   │   ├── client.proto
+    │   │   │   ├── config_change.proto
+    │   │   │   ├── consumer.proto
+    │   │   │   ├── context.proto
+    │   │   │   ├── control.proto
+    │   │   │   ├── distribution.proto
+    │   │   │   ├── documentation.proto
+    │   │   │   ├── endpoint.proto
+    │   │   │   ├── field_behavior.proto
+    │   │   │   ├── http.proto
+    │   │   │   ├── httpbody.proto
+    │   │   │   ├── label.proto
+    │   │   │   ├── launch_stage.proto
+    │   │   │   ├── log.proto
+    │   │   │   ├── logging.proto
+    │   │   │   ├── metric.proto
+    │   │   │   ├── monitored_resource.proto
+    │   │   │   ├── monitoring.proto
+    │   │   │   ├── quota.proto
+    │   │   │   ├── resource.proto
+    │   │   │   ├── service.proto
+    │   │   │   ├── source_info.proto
+    │   │   │   ├── system_parameter.proto
+    │   │   │   └── usage.proto
+    │   │   ├── cloud
+    │   │   │   └── audit
+    │   │   │       └── audit_log.proto
+    │   │   ├── geo
+    │   │   │   └── type
+    │   │   │       └── viewport.proto
+    │   │   ├── internal
+    │   │   │   └── firebase
+    │   │   │       └── inappmessaging
+    │   │   │           ├── internal
+    │   │   │           │   └── rate_limit.proto
+    │   │   │           └── v1
+    │   │   │               ├── sdkserving
+    │   │   │               │   └── fiam_fetch_service.proto
+    │   │   │               └── campaign.proto
+    │   │   ├── logging
+    │   │   │   └── type
+    │   │   │       ├── http_request.proto
+    │   │   │       └── log_severity.proto
+    │   │   ├── longrunning
+    │   │   │   └── operations.proto
+    │   │   ├── protobuf
+    │   │   │   ├── any.proto
+    │   │   │   ├── api.proto
+    │   │   │   ├── descriptor.proto
+    │   │   │   ├── duration.proto
+    │   │   │   ├── empty.proto
+    │   │   │   ├── field_mask.proto
+    │   │   │   ├── source_context.proto
+    │   │   │   ├── struct.proto
+    │   │   │   ├── timestamp.proto
+    │   │   │   ├── type.proto
+    │   │   │   └── wrappers.proto
+    │   │   ├── rpc
+    │   │   │   ├── context
+    │   │   │   │   └── attribute_context.proto
+    │   │   │   ├── code.proto
+    │   │   │   ├── error_details.proto
+    │   │   │   └── status.proto
+    │   │   └── type
+    │   │       ├── calendar_period.proto
+    │   │       ├── color.proto
+    │   │       ├── date.proto
+    │   │       ├── datetime.proto
+    │   │       ├── dayofweek.proto
+    │   │       ├── expr.proto
+    │   │       ├── fraction.proto
+    │   │       ├── latlng.proto
+    │   │       ├── money.proto
+    │   │       ├── postal_address.proto
+    │   │       ├── quaternion.proto
+    │   │       └── timeofday.proto
+    │   ├── kotlin
+    │   │   ├── annotation
+    │   │   │   └── annotation.kotlin_builtins
+    │   │   ├── collections
+    │   │   │   └── collections.kotlin_builtins
+    │   │   ├── concurrent
+    │   │   │   └── atomics
+    │   │   │       └── atomics.kotlin_builtins
+    │   │   ├── coroutines
+    │   │   │   └── coroutines.kotlin_builtins
+    │   │   ├── internal
+    │   │   │   └── internal.kotlin_builtins
+    │   │   ├── ranges
+    │   │   │   └── ranges.kotlin_builtins
+    │   │   ├── reflect
+    │   │   │   └── reflect.kotlin_builtins
+    │   │   └── kotlin.kotlin_builtins
+    │   ├── logs
+    │   │   └── proto
+    │   │       └── firebase
+    │   │           └── inappmessaging
+    │   │               └── campaign_analytics.proto
+    │   ├── META-INF
+    │   │   ├── androidx
+    │   │   │   ├── annotation
+    │   │   │   │   └── annotation
+    │   │   │   │       └── LICENSE.txt
+    │   │   │   └── constraintlayout
+    │   │   │       └── constraintlayout-core
+    │   │   │           └── LICENSE.txt
+    │   │   ├── com
+    │   │   │   ├── android
+    │   │   │   │   └── build
+    │   │   │   │       └── gradle
+    │   │   │   │           └── app-metadata.properties
+    │   │   │   └── vdocipher
+    │   │   │       └── aegis
+    │   │   │           └── vdocipher-android
+    │   │   │               └── verification.properties
+    │   │   ├── services
+    │   │   │   ├── com.fasterxml.jackson.core.JsonFactory
+    │   │   │   ├── com.fasterxml.jackson.core.ObjectCodec
+    │   │   │   ├── io.grpc.LoadBalancerProvider
+    │   │   │   ├── io.grpc.ManagedChannelProvider
+    │   │   │   ├── io.grpc.NameResolverProvider
+    │   │   │   ├── io.grpc.ServerProvider
+    │   │   │   ├── kotlinx.coroutines.CoroutineExceptionHandler
+    │   │   │   └── kotlinx.coroutines.internal.MainDispatcherFactory
+    │   │   ├── versions
+    │   │   │   └── 9
+    │   │   │       └── OSGI-INF
+    │   │   │           └── MANIFEST.MF
+    │   │   ├── androidx.activity_activity-ktx.version
+    │   │   ├── androidx.activity_activity.version
+    │   │   ├── androidx.annotation_annotation-experimental.version
+    │   │   ├── androidx.appcompat_appcompat-resources.version
+    │   │   ├── androidx.appcompat_appcompat.version
+    │   │   ├── androidx.arch.core_core-runtime.version
+    │   │   ├── androidx.asynclayoutinflater_asynclayoutinflater.version
+    │   │   ├── androidx.autofill_autofill.version
+    │   │   ├── androidx.browser_browser.version
+    │   │   ├── androidx.cardview_cardview.version
+    │   │   ├── androidx.constraintlayout_constraintlayout.version
+    │   │   ├── androidx.coordinatorlayout_coordinatorlayout.version
+    │   │   ├── androidx.core_core-ktx.version
+    │   │   ├── androidx.core_core-viewtree.version
+    │   │   ├── androidx.core_core.version
+    │   │   ├── androidx.credentials_credentials-play-services-auth.version
+    │   │   ├── androidx.credentials_credentials.version
+    │   │   ├── androidx.cursoradapter_cursoradapter.version
+    │   │   ├── androidx.customview_customview-poolingcontainer.version
+    │   │   ├── androidx.customview_customview.version
+    │   │   ├── androidx.databinding_baseAdapters.version
+    │   │   ├── androidx.databinding_databindingKtx.version
+    │   │   ├── androidx.databinding_library.version
+    │   │   ├── androidx.databinding_viewbinding.version
+    │   │   ├── androidx.datastore_datastore-core.version
+    │   │   ├── androidx.datastore_datastore-preferences-core.version
+    │   │   ├── androidx.datastore_datastore-preferences.version
+    │   │   ├── androidx.datastore_datastore.version
+    │   │   ├── androidx.documentfile_documentfile.version
+    │   │   ├── androidx.drawerlayout_drawerlayout.version
+    │   │   ├── androidx.dynamicanimation_dynamicanimation.version
+    │   │   ├── androidx.emoji2_emoji2-views-helper.version
+    │   │   ├── androidx.emoji2_emoji2.version
+    │   │   ├── androidx.exifinterface_exifinterface.version
+    │   │   ├── androidx.fragment_fragment-ktx.version
+    │   │   ├── androidx.fragment_fragment.version
+    │   │   ├── androidx.graphics_graphics-shapes.version
+    │   │   ├── androidx.interpolator_interpolator.version
+    │   │   ├── androidx.legacy_legacy-support-core-ui.version
+    │   │   ├── androidx.legacy_legacy-support-core-utils.version
+    │   │   ├── androidx.legacy_legacy-support-v4.version
+    │   │   ├── androidx.lifecycle_lifecycle-livedata-core-ktx.version
+    │   │   ├── androidx.lifecycle_lifecycle-livedata-core.version
+    │   │   ├── androidx.lifecycle_lifecycle-livedata.version
+    │   │   ├── androidx.lifecycle_lifecycle-process.version
+    │   │   ├── androidx.lifecycle_lifecycle-runtime-ktx.version
+    │   │   ├── androidx.lifecycle_lifecycle-runtime.version
+    │   │   ├── androidx.lifecycle_lifecycle-service.version
+    │   │   ├── androidx.lifecycle_lifecycle-viewmodel-ktx.version
+    │   │   ├── androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+    │   │   ├── androidx.lifecycle_lifecycle-viewmodel.version
+    │   │   ├── androidx.loader_loader.version
+    │   │   ├── androidx.localbroadcastmanager_localbroadcastmanager.version
+    │   │   ├── androidx.media_media.version
+    │   │   ├── androidx.mediarouter_mediarouter.version
+    │   │   ├── androidx.palette_palette.version
+    │   │   ├── androidx.print_print.version
+    │   │   ├── androidx.privacysandbox.ads_ads-adservices-java.version
+    │   │   ├── androidx.privacysandbox.ads_ads-adservices.version
+    │   │   ├── androidx.profileinstaller_profileinstaller.version
+    │   │   ├── androidx.recyclerview_recyclerview.version
+    │   │   ├── androidx.room_room-ktx.version
+    │   │   ├── androidx.room_room-runtime.version
+    │   │   ├── androidx.savedstate_savedstate-ktx.version
+    │   │   ├── androidx.savedstate_savedstate.version
+    │   │   ├── androidx.slidingpanelayout_slidingpanelayout.version
+    │   │   ├── androidx.sqlite_sqlite-framework.version
+    │   │   ├── androidx.sqlite_sqlite.version
+    │   │   ├── androidx.startup_startup-runtime.version
+    │   │   ├── androidx.swiperefreshlayout_swiperefreshlayout.version
+    │   │   ├── androidx.tracing_tracing-ktx.version
+    │   │   ├── androidx.tracing_tracing.version
+    │   │   ├── androidx.transition_transition.version
+    │   │   ├── androidx.vectordrawable_vectordrawable-animated.version
+    │   │   ├── androidx.vectordrawable_vectordrawable.version
+    │   │   ├── androidx.versionedparcelable_versionedparcelable.version
+    │   │   ├── androidx.viewpager2_viewpager2.version
+    │   │   ├── androidx.viewpager_viewpager.version
+    │   │   ├── androidx.webkit_webkit.version
+    │   │   ├── androidx.work_work-runtime-ktx.version
+    │   │   ├── androidx.work_work-runtime.version
+    │   │   ├── com.google.android.material_material.version
+    │   │   ├── FastDoubleParser-LICENSE
+    │   │   ├── FastDoubleParser-NOTICE
+    │   │   ├── kotlinx_coroutines_android.version
+    │   │   ├── kotlinx_coroutines_core.version
+    │   │   ├── kotlinx_coroutines_play_services.version
+    │   │   ├── thirdparty-LICENSE
+    │   │   └── version-control-info.textproto
+    │   ├── okhttp3
+    │   │   └── internal
+    │   │       └── publicsuffix
+    │   │           ├── NOTICE
+    │   │           └── publicsuffixes.gz
+    │   ├── org
+    │   │   └── apache
+    │   │       └── commons
+    │   │           └── codec
+    │   │               └── language
+    │   │                   ├── bm
+    │   │                   │   ├── ash_approx_any.txt
+    │   │                   │   ├── ash_approx_common.txt
+    │   │                   │   ├── ash_approx_cyrillic.txt
+    │   │                   │   ├── ash_approx_english.txt
+    │   │                   │   ├── ash_approx_french.txt
+    │   │                   │   ├── ash_approx_german.txt
+    │   │                   │   ├── ash_approx_hebrew.txt
+    │   │                   │   ├── ash_approx_hungarian.txt
+    │   │                   │   ├── ash_approx_polish.txt
+    │   │                   │   ├── ash_approx_romanian.txt
+    │   │                   │   ├── ash_approx_russian.txt
+    │   │                   │   ├── ash_approx_spanish.txt
+    │   │                   │   ├── ash_exact_any.txt
+    │   │                   │   ├── ash_exact_approx_common.txt
+    │   │                   │   ├── ash_exact_common.txt
+    │   │                   │   ├── ash_exact_cyrillic.txt
+    │   │                   │   ├── ash_exact_english.txt
+    │   │                   │   ├── ash_exact_french.txt
+    │   │                   │   ├── ash_exact_german.txt
+    │   │                   │   ├── ash_exact_hebrew.txt
+    │   │                   │   ├── ash_exact_hungarian.txt
+    │   │                   │   ├── ash_exact_polish.txt
+    │   │                   │   ├── ash_exact_romanian.txt
+    │   │                   │   ├── ash_exact_russian.txt
+    │   │                   │   ├── ash_exact_spanish.txt
+    │   │                   │   ├── ash_hebrew_common.txt
+    │   │                   │   ├── ash_lang.txt
+    │   │                   │   ├── ash_languages.txt
+    │   │                   │   ├── ash_rules_any.txt
+    │   │                   │   ├── ash_rules_cyrillic.txt
+    │   │                   │   ├── ash_rules_english.txt
+    │   │                   │   ├── ash_rules_french.txt
+    │   │                   │   ├── ash_rules_german.txt
+    │   │                   │   ├── ash_rules_hebrew.txt
+    │   │                   │   ├── ash_rules_hungarian.txt
+    │   │                   │   ├── ash_rules_polish.txt
+    │   │                   │   ├── ash_rules_romanian.txt
+    │   │                   │   ├── ash_rules_russian.txt
+    │   │                   │   ├── ash_rules_spanish.txt
+    │   │                   │   ├── gen_approx_any.txt
+    │   │                   │   ├── gen_approx_arabic.txt
+    │   │                   │   ├── gen_approx_common.txt
+    │   │                   │   ├── gen_approx_cyrillic.txt
+    │   │                   │   ├── gen_approx_czech.txt
+    │   │                   │   ├── gen_approx_dutch.txt
+    │   │                   │   ├── gen_approx_english.txt
+    │   │                   │   ├── gen_approx_french.txt
+    │   │                   │   ├── gen_approx_german.txt
+    │   │                   │   ├── gen_approx_greek.txt
+    │   │                   │   ├── gen_approx_greeklatin.txt
+    │   │                   │   ├── gen_approx_hebrew.txt
+    │   │                   │   ├── gen_approx_hungarian.txt
+    │   │                   │   ├── gen_approx_italian.txt
+    │   │                   │   ├── gen_approx_polish.txt
+    │   │                   │   ├── gen_approx_portuguese.txt
+    │   │                   │   ├── gen_approx_romanian.txt
+    │   │                   │   ├── gen_approx_russian.txt
+    │   │                   │   ├── gen_approx_spanish.txt
+    │   │                   │   ├── gen_approx_turkish.txt
+    │   │                   │   ├── gen_exact_any.txt
+    │   │                   │   ├── gen_exact_approx_common.txt
+    │   │                   │   ├── gen_exact_arabic.txt
+    │   │                   │   ├── gen_exact_common.txt
+    │   │                   │   ├── gen_exact_cyrillic.txt
+    │   │                   │   ├── gen_exact_czech.txt
+    │   │                   │   ├── gen_exact_dutch.txt
+    │   │                   │   ├── gen_exact_english.txt
+    │   │                   │   ├── gen_exact_french.txt
+    │   │                   │   ├── gen_exact_german.txt
+    │   │                   │   ├── gen_exact_greek.txt
+    │   │                   │   ├── gen_exact_greeklatin.txt
+    │   │                   │   ├── gen_exact_hebrew.txt
+    │   │                   │   ├── gen_exact_hungarian.txt
+    │   │                   │   ├── gen_exact_italian.txt
+    │   │                   │   ├── gen_exact_polish.txt
+    │   │                   │   ├── gen_exact_portuguese.txt
+    │   │                   │   ├── gen_exact_romanian.txt
+    │   │                   │   ├── gen_exact_russian.txt
+    │   │                   │   ├── gen_exact_spanish.txt
+    │   │                   │   ├── gen_exact_turkish.txt
+    │   │                   │   ├── gen_hebrew_common.txt
+    │   │                   │   ├── gen_lang.txt
+    │   │                   │   ├── gen_languages.txt
+    │   │                   │   ├── gen_rules_any.txt
+    │   │                   │   ├── gen_rules_arabic.txt
+    │   │                   │   ├── gen_rules_cyrillic.txt
+    │   │                   │   ├── gen_rules_czech.txt
+    │   │                   │   ├── gen_rules_dutch.txt
+    │   │                   │   ├── gen_rules_english.txt
+    │   │                   │   ├── gen_rules_french.txt
+    │   │                   │   ├── gen_rules_german.txt
+    │   │                   │   ├── gen_rules_greek.txt
+    │   │                   │   ├── gen_rules_greeklatin.txt
+    │   │                   │   ├── gen_rules_hebrew.txt
+    │   │                   │   ├── gen_rules_hungarian.txt
+    │   │                   │   ├── gen_rules_italian.txt
+    │   │                   │   ├── gen_rules_polish.txt
+    │   │                   │   ├── gen_rules_portuguese.txt
+    │   │                   │   ├── gen_rules_romanian.txt
+    │   │                   │   ├── gen_rules_russian.txt
+    │   │                   │   ├── gen_rules_spanish.txt
+    │   │                   │   ├── gen_rules_turkish.txt
+    │   │                   │   ├── lang.txt
+    │   │                   │   ├── sep_approx_any.txt
+    │   │                   │   ├── sep_approx_common.txt
+    │   │                   │   ├── sep_approx_french.txt
+    │   │                   │   ├── sep_approx_hebrew.txt
+    │   │                   │   ├── sep_approx_italian.txt
+    │   │                   │   ├── sep_approx_portuguese.txt
+    │   │                   │   ├── sep_approx_spanish.txt
+    │   │                   │   ├── sep_exact_any.txt
+    │   │                   │   ├── sep_exact_approx_common.txt
+    │   │                   │   ├── sep_exact_common.txt
+    │   │                   │   ├── sep_exact_french.txt
+    │   │                   │   ├── sep_exact_hebrew.txt
+    │   │                   │   ├── sep_exact_italian.txt
+    │   │                   │   ├── sep_exact_portuguese.txt
+    │   │                   │   ├── sep_exact_spanish.txt
+    │   │                   │   ├── sep_hebrew_common.txt
+    │   │                   │   ├── sep_lang.txt
+    │   │                   │   ├── sep_languages.txt
+    │   │                   │   ├── sep_rules_any.txt
+    │   │                   │   ├── sep_rules_french.txt
+    │   │                   │   ├── sep_rules_hebrew.txt
+    │   │                   │   ├── sep_rules_italian.txt
+    │   │                   │   ├── sep_rules_portuguese.txt
+    │   │                   │   └── sep_rules_spanish.txt
+    │   │                   └── dmrules.txt
+    │   ├── res
+    │   │   ├── anim
+    │   │   │   ├── abc_fade_in.xml
+    │   │   │   ├── abc_fade_out.xml
+    │   │   │   ├── abc_grow_fade_in_from_bottom.xml
+    │   │   │   ├── abc_popup_enter.xml
+    │   │   │   ├── abc_popup_exit.xml
+    │   │   │   ├── abc_shrink_fade_out_from_bottom.xml
+    │   │   │   ├── abc_slide_in_bottom.xml
+    │   │   │   ├── abc_slide_in_top.xml
+    │   │   │   ├── abc_slide_out_bottom.xml
+    │   │   │   ├── abc_slide_out_top.xml
+    │   │   │   ├── abc_tooltip_enter.xml
+    │   │   │   ├── abc_tooltip_exit.xml
+    │   │   │   ├── btn_checkbox_to_checked_box_inner_merged_animation.xml
+    │   │   │   ├── btn_checkbox_to_checked_box_outer_merged_animation.xml
+    │   │   │   ├── btn_checkbox_to_checked_icon_null_animation.xml
+    │   │   │   ├── btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+    │   │   │   ├── btn_checkbox_to_unchecked_check_path_merged_animation.xml
+    │   │   │   ├── btn_checkbox_to_unchecked_icon_null_animation.xml
+    │   │   │   ├── btn_radio_to_off_mtrl_dot_group_animation.xml
+    │   │   │   ├── btn_radio_to_off_mtrl_ring_outer_animation.xml
+    │   │   │   ├── btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+    │   │   │   ├── btn_radio_to_on_mtrl_dot_group_animation.xml
+    │   │   │   ├── btn_radio_to_on_mtrl_ring_outer_animation.xml
+    │   │   │   ├── btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+    │   │   │   ├── catalyst_fade_in.xml
+    │   │   │   ├── catalyst_fade_out.xml
+    │   │   │   ├── catalyst_push_up_in.xml
+    │   │   │   ├── catalyst_push_up_out.xml
+    │   │   │   ├── catalyst_slide_down.xml
