@@ -25,10 +25,19 @@ jobs:
         run: |
           mkdir -p app/src/main/assets
           cp MARROW_UI_FINAL.html app/src/main/assets/MARROW_UI_FINAL.html
-      - name: Build debug APK
-        run: gradle assembleDebug --no-daemon
-      - name: Upload APK
+      - name: Create temporary release signing key
+        run: |
+          keytool -genkeypair -v             -keystore release-key.jks             -storepass prepleadrx-build             -keypass prepleadrx-build             -alias prepleadrx             -keyalg RSA             -keysize 2048             -validity 10000             -dname "CN=PrepLeadr X, OU=Build, O=PrepLeadr X, L=NA, ST=NA, C=IN"
+      - name: Build signed release APK
+        run: |
+          gradle assembleRelease --no-daemon             -PRELEASE_STORE_FILE="$GITHUB_WORKSPACE/release-key.jks"             -PRELEASE_STORE_PASSWORD="prepleadrx-build"             -PRELEASE_KEY_ALIAS="prepleadrx"             -PRELEASE_KEY_PASSWORD="prepleadrx-build"
+      - name: Verify APK
+        run: |
+          test -s app/build/outputs/apk/release/app-release.apk
+          unzip -t app/build/outputs/apk/release/app-release.apk >/dev/null
+          jarsigner -verify -verbose -certs app/build/outputs/apk/release/app-release.apk >/dev/null
+      - name: Upload installable APK
         uses: actions/upload-artifact@v4
         with:
-          name: PrepLeadr-X-debug-apk
-          path: app/build/outputs/apk/debug/app-debug.apk
+          name: PrepLeadr-X-installable-apk
+          path: app/build/outputs/apk/release/app-release.apk
