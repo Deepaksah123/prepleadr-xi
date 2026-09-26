@@ -1,5 +1,40 @@
 plugins { id 'com.android.application' }
 
-android { namespace 'com.prepleadrx'; compileSdk 35
-    defaultConfig { applicationId 'com.prepleadrx'; minSdk 23; targetSdk 35; versionCode 1; versionName '1.0' }
+android {
+    namespace 'com.prepleadrx'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.prepleadrx'
+        minSdk 23
+        targetSdk 35
+        versionCode 2
+        versionName '1.1'
+    }
+
+    signingConfigs {
+        release {
+            def ks = project.findProperty("RELEASE_STORE_FILE")
+            def kp = project.findProperty("RELEASE_STORE_PASSWORD")
+            def ka = project.findProperty("RELEASE_KEY_ALIAS")
+            def kk = project.findProperty("RELEASE_KEY_PASSWORD")
+            if (ks != null) {
+                storeFile file(ks)
+                storePassword kp
+                keyAlias ka
+                keyPassword kk
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            signingConfig signingConfigs.release
+        }
+        debug {
+            debuggable true
+        }
+    }
 }
